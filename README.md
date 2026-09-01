@@ -1,35 +1,38 @@
 # Olá, Eu sou Wesley Pavan
 
-Sou estudante de ADS (Análise e Desenvolvimento de Sistemas), mas sou graduado em Publicidade e Propagando e Pós Graduado em UI Design pela Faculdade Belas Artes, com conhecimentos nas principais ferramentas da Adobe e em CSS, HTML, Figma, Metodologias Ágeis e Prototipagem.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), graduado em Publicidade e Propaganda e pós-graduado em UI Design pela Faculdade Belas Artes. Tenho conhecimentos nas principais ferramentas da Adobe, além de CSS, HTML, Figma, Metodologias Ágeis e Prototipagem..
 
 ## **Sobre Mim**
 
-- Trabalho atualmente com design digital, editor de vídeo, motion e com ux/ui na Puriflora.
+- Trabalho atualmente com design digital, edição de vídeo, motion design e UX/UI na Puriflora.
 
-- Essa é a minha segunda graduação.
+- Esta é a minha segunda graduação.
 
-- Tenho muito interesse em programação, principalmente HTML, CSS, Java Scrit e Mobile. 
+- Tenho muito interesse em programação, principalmente HTML, CSS, JavaScript e desenvolvimento Mobile. 
 
-- Estou sempre à procura de conhecimento, para melhorar como ser humano.
+- Estou sempre em busca de conhecimento para evoluir profissionalmente e como pessoa.
 
 ## **Projetos**
 
-- Criação e desenvolvimento do perfil do GitHub e LinkedIn. 
-- E como designer no desenvolvimento e melhora do site de venda da empresa em que trabalho, Puriflora.
+- Criação e desenvolvimento dos meus perfis no GitHub e LinkedIn. 
+- Atuação como designer no desenvolvimento e na melhoria do site de vendas da empresa em que trabalho, a Puriflora.
 (texto]<https://www.puriflora.com.br/?srsltid=AfmBOor2qUaS6USKwRrqPbl3__qmlVBPr-M3nJ03WFV7R6C2VDTnmQzW
 
 
 ## **Habilidades**
-## Minhas principais habilidades são HTML, CSS, JavaScript e Figma para montar os projetos.
+- HTML
+- CSS,
+- JavaScript
+- Figma para o desenvolvimento e criação de projetos.
 
 ## **Formações**
-- Logistica pela Etec Zona Leste
+- Logística pela Etec Zona Leste.
 
- -  Comunicação Social com ênfase em Publicidade e Propaganda pela Faculdade Paulus de Comunicação ( FAPCOM)
+ -  CComunicação Social, com ênfase em Publicidade e Propaganda, pela Faculdade Paulus de Comunicação (FAPCOM).
 
- -  Pós-graduado em UI Design pela Belas Artes
+ -  Pós-graduação em UI Design pela Faculdade Belas Artes.
 
- -  E cursando Análise e Desenvolvimento de Sistemas (ADS) pela Cruzeiro do Sul
+ -  Cursando Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Cruzeiro do Sul.
 
 ## **Contatos**
 
